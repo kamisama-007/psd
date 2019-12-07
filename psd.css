@@ -1,0 +1,129 @@
+html,body{
+	width: 100%;
+	height: 100%;
+	min-width: 1100px;
+}
+img{
+	width: 100%;
+	height: 100%;
+}
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.toubu{
+	width: 100%;
+	height: 3%;
+	top: 3%;
+}
+.shangbiao{
+	width: 7%;
+	height: 100%;
+	position: relative;
+	float: left;
+	left: 10%;
+}
+.daohanglan{
+	font-size: 12px;
+	position: relative;
+	float: right;
+	right: 5%;
+	top: 3%;
+	width: 30%;
+	height: 100%;
+}
+.daohang{
+	margin-right: 10%;
+	float: left;
+}
+.p1{
+	position: relative;
+	float: right;
+	width: 75%;
+	height: 71%;
+	top: -3%;
+	z-index: -1;
+}
+.p2{
+	width: 28%;
+	height: 8%;
+	position: relative;
+	float: left;
+	left: 14%;
+	top: -62%;
+}
+.p3{
+	width: 5.5%;
+	height: 9%;
+	position: relative;
+	float: left;
+	left: -21%;
+	top: -52%;
+}
+.p4{
+	width: 17%;
+	height: 10%;
+	position: relative;
+	float: left;
+	left: -19%;
+	top: -52%;
+}
+.p5{
+	width: 24%;
+	height: 10%;
+	position: relative;
+	float: left;
+	left: -43%;
+	top: -40%;
+}
+.p6{
+	width: 29%;
+	height: 9%;
+	position: relative;
+	float: left;
+	left: 13%;
+	top: -39%;
+}
+.p7{
+	width: 100%;
+	height: 71%;
+	position: relative;
+	float: left;
+	top: -22%;
+}
+.p8{
+	width: 100%;
+	height: 71%;
+	position: relative;
+	float: left;
+	top: -22%;
+}
+.p9{
+	width: 100%;
+	height: 71%;
+	position: relative;
+	float: left;
+	top: -22%;
+}
+.p10{
+	width: 100%;
+	height: 71%;
+	position: relative;
+	float: left;
+	top: -22%;
+}
+.p11{
+	width: 1.2%;
+	height: 15.1%;
+	position: relative;
+	left: 1%;
+	top: 24.2%;
+}
+.p12{
+	width: 100%;
+	height: 15%;
+	position: relative;
+	float: left;
+	top: -22%;
+}
